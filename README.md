@@ -5,7 +5,7 @@ This repository will help you practice for the incoming Hacktoberfest—a month-
 
 <hr>
 
-**Note:** Only people from the **Philippines** are allowed to join in this organization and be part in our project but anyone can help to improve our project. Don't worry, we have <a href="https://github.com/EddieHubCommunity/support">EddieHub</a> Community, this is our international open-source community, and anyone can join.
+**Note:** Only people from the **Philippines** are allowed to join this organization and be part in our project, but anyone can help to improve our project. Don't worry, we have <a href="https://github.com/EddieHubCommunity/support">EddieHub</a> Community: this is our global open-source community, and anyone can join.
 
 <hr>
 
@@ -48,7 +48,7 @@ Questions can be asked by raising an issue. Have you found any bugs? You may rai
 - Create a new file and name it using this format: `Your_GitHub_Username.md`.
 - Introduce yourself using the sample format below.
 ```
-| Vincent Villafuerte | [vinzvinci](https://github.com/vinzvinci) | [vincentvillafuerte](https://www.linkedin.com/in/vincentvillafuerte) | [https://vinzvinci.github.io/](https://vinzvinci.github.io/) | Founder of Surpath / Microsoft Learn Student Ambassador / Open Source DevRel / Software Engineer |
+Vincent Villafuerte | [vinzvinci](https://github.com/vinzvinci) | Microsoft Learn Student Ambassador &#124; GitHub Campus Expert &#124; BS Information System Student &#124; Open Source Contributor &#124; DevRel |
 ```
 
 - Stage your changes.
@@ -88,11 +88,3 @@ Note: wait for your changes to be merged.
 
 ### SWAG (Stuff We All Get)
 - <a href="https://github.com/SurPathHub/hacktoberfest-philippines/issues/9">Hacktoberfest 2020</a>
-
-<hr />
-
-<p align="center">Join our conversation on Discord: <br>
-  <a href="https://discord.com/invite/RATJsSGM9d">
-    <img src="https://img.shields.io/discord/790101969413865472?logo=discord&style=for-the-badge" />
-  </a>
-</p>
